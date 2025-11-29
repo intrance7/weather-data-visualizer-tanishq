@@ -1,2 +1,8 @@
-soruces- 
 
+## 📊 Dataset Sources
+
+### **1. TUMI Data Hub – Delhi Weather Data**  
+https://hub.tumidata.org/dataset/delhi_weather_data_delhi/resource/b5ebdc3d-e8a1-13c9-b6c3-9458272d540e
+
+### **2. Kaggle – Delhi Weather Dataset**  
+https://www.kaggle.com/datasets/mahirkukreja/delhi-weather-data
